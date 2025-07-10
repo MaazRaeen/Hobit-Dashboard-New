@@ -62,7 +62,7 @@ const ContactPage = () => {
     {
       icon: MessageSquare,
       title: 'Live Chat',
-      value: 'Chat with us',
+      value: 'Chat with ',
       description: 'Available 24/7 for quick questions',
       action: 'https://discord.gg/sSF6QeEJ'
     },
