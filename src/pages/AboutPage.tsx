@@ -4,7 +4,7 @@ import { Users, Award, Target, Heart, ArrowRight, CheckCircle } from 'lucide-rea
 const AboutPage = () => {
   const teamMembers = [
     {
-      name: 'Ojasvi vats',
+      name: 'Ojasvi vats',  
       role: 'CEO & Founder',
       image: 'https://media.licdn.com/dms/image/v2/D5603AQGurD0dTnt7jA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1691538110835?e=1755734400&v=beta&t=s_vzDRN90Ape9VVPdZhqIWt0-5NmiwpIrF56kOcOpFo',
       bio: 'Serial entrepreneur with 7+ years in digital transformation. Previously led product at Multi startups.',
